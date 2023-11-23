@@ -2,17 +2,14 @@
 
 ## 📝 목차
 
-[프로젝트 개요](#item-one)
+1. <a href="#item-one">📖 프로젝트 개요</a>
+1. <a href="#item-three">🛠️ 기술 스택</a>
+1. <a href="#item-four">⚙️ 서버 아키텍처</a>
+1. <a href="#item-five">🗂️ 프로젝트 파일 구조</a>
+1. <a href="#item-six">🖥 서비스 구현 화면</a>
+1. <a href="#item-two">👥 팀원 소개</a>
 
-[기술 스택](#item-three)
-
-[서버 아키텍처](#item-four)
-
-[서비스 구현 화면](#item-five)
-
-[팀원 소개](#item-two)
-
-[느낀 점](#item-end)
+---
 
 ## 📖 프로젝트 개요
 
@@ -46,14 +43,14 @@
 
 <br/>
 
-## 💻 IDE
+### 💻 IDE
 
 ![VSCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 <br/>
 
-## 📱 Frontend
+### 📱 Frontend
 
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -75,7 +72,7 @@
 
 <br/>
 
-## 💾 Backend
+### 💾 Backend
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
@@ -93,7 +90,7 @@
 
 <br/>
 
-## 🔃 DevOPS
+### 🔃 DevOPS
 
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
